@@ -1,1 +1,1 @@
-# ServiceCatalog
+# Service Catalog
